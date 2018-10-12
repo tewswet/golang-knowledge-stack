@@ -1,6 +1,6 @@
 # golang-knowledge-stack
 
-## Книги:
+### Книги по Go:
 * [Google Drive](https://drive.google.com/drive/u/1/folders/1N7M4TJFG46ttWStQn2jI1E1VSQSHuaiP)
 * [Official Books Repo](https://github.com/golang/go/wiki/Books)
 * [Custom Books Repo](https://github.com/dariubs/GoBooks)
@@ -16,11 +16,11 @@
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 * [Embedding в Go](https://medium.com/german-gorelkin/embedding-in-go-6739e46c1be1)
 
-### Видео
+### Видео по Go
 * [Погружение в Go](https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca)
 * [Пишем веб-приложение на Go](https://www.youtube.com/playlist?list=PLGtcqyFrda9474GltUO-7S4KoJVcdLMp4)
 
-### Ресурсы
+### Ресурсы по Go
 * [Wiki по всему-всему-всему](https://github.com/golang/go/wiki)
 * [Хабр](https://habr.com/hub/go/)
 * [Medium](https://blog.maddevs.io/tagged/golang)
@@ -29,11 +29,13 @@
 * [Go By Example (ru)](https://gobyexample.ru/)
 * [Golang Programs](http://www.golangprograms.com/)
 
-### Пакеты и фреймворки
+### Пакеты и фреймворки по Go
 * [Awesome Go](https://github.com/avelino/awesome-go)
 * [GoRequest](https://github.com/parnurzeal/gorequest)
 
-### Статьи на отвлеченные темы
+#### Книги на отвлеченные темы 
+
+#### Статьи на отвлеченные темы
 * [7 вредных советов проектировщику API](https://habr.com/post/325884/)
 * [Важнейшие структуры данных, которые вам следует знать к своему собеседованию по программированию](https://habr.com/company/alconost/blog/419685/)
 * [Ваш стиль чтения книг много говорит о вашем интеллекте — и вот почему](https://habr.com/company/alconost/blog/420335/)
