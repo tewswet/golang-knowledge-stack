@@ -14,7 +14,7 @@
 * [Обработка ошибок в Го](https://blog.maddevs.io/golang-error-handling-18cf16758f81)
 * [Введение в gRPC](https://blog.maddevs.io/introduction-to-grpc-6de0d9c0fe61)
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
-
+* [Embedding в Go](https://medium.com/german-gorelkin/embedding-in-go-6739e46c1be1)
 
 ### Видео
 * [Погружение в Go](https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca)
@@ -31,6 +31,7 @@
 
 ### Пакеты и фреймворки
 * [Awesome Go](https://github.com/avelino/awesome-go)
+* [GoRequest](https://github.com/parnurzeal/gorequest)
 
 ### Статьи на отвлеченные темы
 * [7 вредных советов проектировщику API](https://habr.com/post/325884/)
