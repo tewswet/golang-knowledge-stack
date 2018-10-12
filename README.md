@@ -9,6 +9,9 @@
 * [С чего начать новичку](https://habr.com/post/269355/)
 * [Построение микросервисной архитектуры на Golang и gRPC (начало цикла статей)](https://habr.com/post/425653/)
 * [Go. Подборка инструментов для построения Web API](https://blog.maddevs.io/go-web-api-c949bd1362b0)
+* [Обработка ошибок в Го](https://blog.maddevs.io/golang-error-handling-18cf16758f81)
+* [Введение в gRPC](https://blog.maddevs.io/introduction-to-grpc-6de0d9c0fe61)
+* [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 
 ### Видео
 * [Погружение в Go](https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca)
