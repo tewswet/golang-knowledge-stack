@@ -28,4 +28,4 @@
 * [Важнейшие структуры данных, которые вам следует знать к своему собеседованию по программированию](https://habr.com/company/alconost/blog/419685/)
 * [Ваш стиль чтения книг много говорит о вашем интеллекте — и вот почему](https://habr.com/company/alconost/blog/420335/)
 * [Секрет быстрого программирования: не задумывайтесь](https://habr.com/company/alconost/blog/321932/)
-* [https://habr.com/company/alconost/blog/327376/](https://habr.com/company/alconost/blog/327376/)
+* [Здоровый программист — счастливый программист](https://habr.com/company/alconost/blog/327376/)
