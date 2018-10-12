@@ -33,8 +33,6 @@
 * [Awesome Go](https://github.com/avelino/awesome-go)
 * [GoRequest](https://github.com/parnurzeal/gorequest)
 
-#### Книги на отвлеченные темы 
-
 #### Статьи на отвлеченные темы
 * [7 вредных советов проектировщику API](https://habr.com/post/325884/)
 * [Важнейшие структуры данных, которые вам следует знать к своему собеседованию по программированию](https://habr.com/company/alconost/blog/419685/)
