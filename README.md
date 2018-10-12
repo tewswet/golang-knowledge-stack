@@ -23,7 +23,7 @@
 * [Пишем веб-приложение на Go](https://www.youtube.com/playlist?list=PLGtcqyFrda9474GltUO-7S4KoJVcdLMp4)
 
 ### Ресурсы по Go
-* [Wiki по всему-всему-всему](https://github.com/golang/go/wiki)
+* [Wiki со всем-всем-всем](https://github.com/golang/go/wiki)
 * [Хабр](https://habr.com/hub/go/)
 * [Medium](https://blog.maddevs.io/tagged/golang)
 * [4Gophers](https://4gophers.ru/)
