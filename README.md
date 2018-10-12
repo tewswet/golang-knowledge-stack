@@ -17,6 +17,7 @@
 * [Embedding в Go](https://medium.com/german-gorelkin/embedding-in-go-6739e46c1be1)
 * [Более 200 избранных ссылок на материалы о языке Go](https://proglib.io/p/golinks/)
 * [Цикл статей по микрросервисам на Go](https://ewanvalentine.io/tag/golang/)
+* [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 
 ### Видео по Go
 * [Погружение в Go](https://www.youtube.com/playlist?list=PLBOo6DBmP5V9CAXxxl6EZxZpMmT_4ZOca)
