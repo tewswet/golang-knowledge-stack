@@ -41,3 +41,4 @@
 * [Ваш стиль чтения книг много говорит о вашем интеллекте — и вот почему](https://habr.com/company/alconost/blog/420335/)
 * [Секрет быстрого программирования: не задумывайтесь](https://habr.com/company/alconost/blog/321932/)
 * [Здоровый программист — счастливый программист](https://habr.com/company/alconost/blog/327376/)
+* [Наиболее полный видеокурс по алгоритмам и структурам данных](https://proglib.io/p/algorithms-and-structures/)
