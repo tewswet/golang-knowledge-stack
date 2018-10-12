@@ -16,7 +16,7 @@
 * [Building High Performance APIs In Go Using gRPC And Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
 * [Embedding в Go](https://medium.com/german-gorelkin/embedding-in-go-6739e46c1be1)
 * [Более 200 избранных ссылок на материалы о языке Go](https://proglib.io/p/golinks/)
-* [Цикл статей по микрросервисам на Go](https://ewanvalentine.io/tag/golang/)
+* [Цикл статей по микросервисам на Go](https://ewanvalentine.io/tag/golang/)
 * [Making a RESTful JSON API in Go](https://thenewstack.io/make-a-restful-json-api-go/)
 
 ### Видео по Go
