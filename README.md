@@ -9,6 +9,7 @@
 
 ### Статьи по Go
 * [С чего начать новичку](https://habr.com/post/269355/)
+* [Всё, что вы хотели знать про GOPATH и GOROOT](https://habr.com/post/249545/)
 * [Построение микросервисной архитектуры на Golang и gRPC (начало цикла статей)](https://habr.com/post/425653/)
 * [Go. Подборка инструментов для построения Web API](https://blog.maddevs.io/go-web-api-c949bd1362b0)
 * [Обработка ошибок в Го](https://blog.maddevs.io/golang-error-handling-18cf16758f81)
