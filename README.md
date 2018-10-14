@@ -34,7 +34,7 @@
 * [Golang Programs](http://www.golangprograms.com/)
 
 ### Пакеты и фреймворки по Go
-* [Настройка VSCode для golang] (https://medium.com/golang-notes/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-visual-studio-code-%D0%B4%D0%BB%D1%8F-go-647ea94aa795)
+* [VSCode для golang] (https://medium.com/golang-notes/%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-visual-studio-code-%D0%B4%D0%BB%D1%8F-go-647ea94aa795)
 * [Awesome Go](https://github.com/avelino/awesome-go)
 * [GoRequest](https://github.com/parnurzeal/gorequest)
 
